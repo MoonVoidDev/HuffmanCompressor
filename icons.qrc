@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/fileIcons">
+        <file>resources/FileIcon.ico</file>
+        <file>resources/FolderIcon.ico</file>
+        <file>resources/x.ico</file>
+        <file>resources/title.ico</file>
+    </qresource>
+</RCC>
